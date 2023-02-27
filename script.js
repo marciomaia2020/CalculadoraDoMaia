@@ -21,6 +21,7 @@ const porcentagemba = document.getElementById('porcentagemba');
 const media = document.getElementById('media');
 
 
+
 //Adicionar DINAMICAMENTE um valor no ID la no html
 soma.innerHTML = 0;
 subtracaoab.innerHTML = 0;
